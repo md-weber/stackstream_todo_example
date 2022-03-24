@@ -1,6 +1,8 @@
-# todo_example
+[![Test](https://img.shields.io/badge/StackStream-Video-green)](https://stack-stream.com/case/introduction-to-flutter)
 
-A new Flutter project.
+# First StackStream Todo App
+
+Worked great with amazing community. A new Flutter project.
 
 ## Getting Started
 
